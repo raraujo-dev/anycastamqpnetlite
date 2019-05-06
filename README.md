@@ -6,7 +6,7 @@ Run the follow command
 
 dotnet new console --name Example
 
-Inside the Example directory open the Example.csproj file, add the follow ItemGroup tag into <Project> tag pointing to AMQP.dll available for download in this repo.
+Inside the Example directory open the Example.csproj file, add the follow ItemGroup tag into <Project> tag pointing to AMQP.dll available for download rodrigues552/RequestReplyamqpnetlite repository.
 
 ```
 <ItemGroup>
